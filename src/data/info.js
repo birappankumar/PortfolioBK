@@ -132,7 +132,7 @@ const experiences = [
     ],
   },
   {
-    title: "Secretory, Rular development",
+    title: "Secretary, Rular development",
     company_name: "National Service Scheme",
     icon: shopify,
     iconBg: "#383E56",
